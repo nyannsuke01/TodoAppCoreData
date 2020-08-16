@@ -14,6 +14,7 @@
 		CE72876224E8833F00CDEE70 /* TodoAppCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CE72876024E8833F00CDEE70 /* TodoAppCoreData.xcdatamodeld */; };
 		CE72876424E8834200CDEE70 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE72876324E8834200CDEE70 /* Assets.xcassets */; };
 		CE72876724E8834200CDEE70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE72876524E8834200CDEE70 /* LaunchScreen.storyboard */; };
+		CE72876F24E8864200CDEE70 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE72876E24E8864200CDEE70 /* AddTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CE72876324E8834200CDEE70 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CE72876624E8834200CDEE70 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CE72876824E8834200CDEE70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CE72876E24E8864200CDEE70 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				CE72875724E8833F00CDEE70 /* AppDelegate.swift */,
 				CE72875924E8833F00CDEE70 /* SceneDelegate.swift */,
 				CE72875B24E8833F00CDEE70 /* ViewController.swift */,
+				CE72876E24E8864200CDEE70 /* AddTaskViewController.swift */,
 				CE72875D24E8833F00CDEE70 /* Main.storyboard */,
 				CE72876324E8834200CDEE70 /* Assets.xcassets */,
 				CE72876524E8834200CDEE70 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				CE72875824E8833F00CDEE70 /* AppDelegate.swift in Sources */,
 				CE72876224E8833F00CDEE70 /* TodoAppCoreData.xcdatamodeld in Sources */,
 				CE72875A24E8833F00CDEE70 /* SceneDelegate.swift in Sources */,
+				CE72876F24E8864200CDEE70 /* AddTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
